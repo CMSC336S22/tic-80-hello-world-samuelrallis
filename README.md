@@ -1,8 +1,3 @@
-### Samuel Rallis
-### 2022-2-7
-### HW 0
-### I worked alone on this assignment
-
 # HW0: hello-world-tic-80
 
 Write a small program for the TIC-80 inspired by one-liners and 10:PRINT and export the [HTML](https://twitter.com/i/status/1245387000477253633) to github.
@@ -12,3 +7,6 @@ Write a small program for the TIC-80 inspired by one-liners and 10:PRINT and exp
 - <https://github.com/nesbox/TIC-80/wiki>
 - <https://github.com/nesbox/TIC-80/wiki/Console>
 - <https://github.com/nesbox/TIC-80/wiki/external-editor>
+
+## Collaboration
+- I worked alone on this assignment
