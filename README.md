@@ -1,7 +1,7 @@
-Samuel Rallis
-2022-2-7
-HW 0
-I worked alone on this assignment
+### Samuel Rallis
+### 2022-2-7
+### HW 0
+### I worked alone on this assignment
 
 # HW0: hello-world-tic-80
 
